@@ -206,7 +206,8 @@ img.showcase {
   margin: 15px;
 }
 
-.left-wrap {
+.
+{
   display: flex;
   text-align: left;
   background: inherit;
@@ -232,16 +233,11 @@ img.showcase {
   #img-caption {
     font-size: 1.4rem;
   }
-  #main {
+  #main, #central, aside, .left-wrap-under {
     display: block;
-  }
-  aside {
-    display: none;
   }
   h1 {
     font-size: 3rem;
     line-height: 1.2;
   }
-  #central {
-  display: block;
 }
