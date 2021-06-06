@@ -254,10 +254,7 @@ img.showcase {
   #img-caption {
     font-size: 1.4rem;
   }
-  .wrap-under-mobile {
-    display: -webkit-inline-flex;
-  }
-
+ 
   aside, #main, #central {
     display: block;
   }
@@ -265,7 +262,6 @@ img.showcase {
     display: box;
     display: -moz-box;
     display: -webkit-box;
-
   }
   h1 {
     font-size: 2rem;
